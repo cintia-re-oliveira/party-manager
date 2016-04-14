@@ -12,7 +12,7 @@
 @section('conteudo')
 <br>
 <ul class="breadcrumb">
-  <li class="active">Inicial</li>
+  <li class="active">Página Inicial</li>
 </ul
 <div class="col-lg-8 col-lg-offset-2 text-center">
     <h2 class="margin-top-0 wow fadeIn"> HARMONIA FESTAS </h2>
